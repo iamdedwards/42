@@ -1,0 +1,10 @@
+Norme: ./error.h
+Error: not protected against double inclusion
+Error: 42 header not at top of the file
+Error (line 12): comment not well formatted
+Error (line 16): wrong number of spaces in preprocessor indentation
+Error (line 17): wrong number of spaces in preprocessor indentation
+Error (line 18): wrong number of spaces in preprocessor indentation
+Error (line 19): wrong number of spaces in preprocessor indentation
+Error (line 20): wrong number of spaces in preprocessor indentation
+Error (line 21): wrong number of spaces in preprocessor indentation

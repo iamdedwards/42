@@ -1,0 +1,25 @@
+total 50
+lrwxr-xr-x@  1 root      wheel           11 Oct 18  2015 var -> private/var
+drwxr-xr-x@ 11 root      wheel          374 Nov 16  2015 usr
+lrwxr-xr-x@  1 root      wheel           11 Oct 18  2015 tmp -> private/tmp
+drwxr-xr-x   4 dedwards  2015_paris       4 Jul  4 01:26 sgoinfre
+drwxr-xr-x@ 60 root      wheel         2040 Aug 27 18:31 sbin
+drwxr-xr-x@  6 root      wheel          204 Oct 18  2015 private
+drwxr-xr-x@  3 root      wheel          102 Oct 20 13:50 opt
+drwxr-xr-x  10 dedwards  2015_paris    4096 Aug 24 13:51 nfs
+dr-xr-xr-x@  2 root      wheel           68 Oct  6  2015 net
+-rw-r--r--@  1 root      wheel          313 Aug 23  2015 installer.failurerequests
+dr-xr-xr-x@  2 root      wheel           68 Oct 18  2015 home
+drwxrwxrwt   2 root      wheel           68 Aug 27 17:29 goinfre
+drwx------  17 exam      applications   578 Sep 23 11:36 exam
+lrwxr-xr-x@  1 root      wheel           11 Oct 18  2015 etc -> private/etc
+dr-xr-xr-x   3 root      wheel         4314 Oct 19 04:59 dev
+drwxrwxr-t@  2 root      admin           68 Oct 18  2015 cores
+drwxr-xr-x   2 root      wheel           68 Dec  1  2015 cdn
+drwxr-xr-x@ 41 root      wheel         1394 Aug 27 18:31 bin
+drwxrwxrwt@  5 root      admin          170 Oct 22 01:16 Volumes
+drwxr-xr-x  11 root      admin          374 Oct 22 12:07 Users
+drwxr-xr-x@  4 root      wheel          136 Sep  6 20:34 System
+drwxr-xr-x@  2 root      wheel           68 Oct 18  2015 Network
+drwxr-xr-x+ 64 root      wheel         2176 Sep  2 17:57 Library
+drwxrwxr-x+ 64 root      admin         2176 Oct 20 14:07 Applications

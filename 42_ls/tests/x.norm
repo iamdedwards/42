@@ -1,0 +1,588 @@
+Norme: ./auteur
+Warning: Not a valid file
+Norme: ./libft/auteur
+Warning: Not a valid file
+Norme: ./libft/charft/tmp.norm
+Warning: Not a valid file
+Norme: ./libft/ft_printf/auteur
+Warning: Not a valid file
+Norme: ./libft/ft_printf/tmp.norm
+Warning: Not a valid file
+Norme: ./libft/libft.a
+Warning: Not a valid file
+Norme: ./libft/Makefile
+Warning: Not a valid file
+Norme: ./libft/objects/b_all_zero.o
+Warning: Not a valid file
+Norme: ./libft/objects/buff_val.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_is_alnum.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_is_alpha.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_is_ascii.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_is_digit.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_is_lower.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_is_print.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_is_upper.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_to_lower.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_to_s.o
+Warning: Not a valid file
+Norme: ./libft/objects/c_to_upper.o
+Warning: Not a valid file
+Norme: ./libft/objects/cval_to_s.o
+Warning: Not a valid file
+Norme: ./libft/objects/f_alloc.o
+Warning: Not a valid file
+Norme: ./libft/objects/f_to_i.o
+Warning: Not a valid file
+Norme: ./libft/objects/f_to_s.o
+Warning: Not a valid file
+Norme: ./libft/objects/ft_printf_fd.o
+Warning: Not a valid file
+Norme: ./libft/objects/ft_sssplit.o
+Warning: Not a valid file
+Norme: ./libft/objects/get_next_line.o
+Warning: Not a valid file
+Norme: ./libft/objects/i_in_iv.o
+Warning: Not a valid file
+Norme: ./libft/objects/i_numlen.o
+Warning: Not a valid file
+Norme: ./libft/objects/i_tens.o
+Warning: Not a valid file
+Norme: ./libft/objects/i_to_s.o
+Warning: Not a valid file
+Norme: ./libft/objects/i_to_s_base.o
+Warning: Not a valid file
+Norme: ./libft/objects/init_val.o
+Warning: Not a valid file
+Norme: ./libft/objects/init_zero.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_add.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_aggr.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_chars.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_count.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_destroy.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_destroy_content.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_dup.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_each.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_filter.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_filteri.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_first_by_index.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_goto.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_grab.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_grab_index.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_grab_ref.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_has.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_has_c.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_hop.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_index_pos.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_init.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_insert.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_last.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_map.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_new.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_previous.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_push.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_push_sort.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_reduce.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_reduce_str.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_refindex.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_remove.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_reverse.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_slice.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_snap_after.o
+Warning: Not a valid file
+Norme: ./libft/objects/l_split.o
+Warning: Not a valid file
+Norme: ./libft/objects/long_to_s.o
+Warning: Not a valid file
+Norme: ./libft/objects/longlong_to_s.o
+Warning: Not a valid file
+Norme: ./libft/objects/my_limits.o
+Warning: Not a valid file
+Norme: ./libft/objects/oo_map_del.o
+Warning: Not a valid file
+Norme: ./libft/objects/oo_map_getval.o
+Warning: Not a valid file
+Norme: ./libft/objects/p.o
+Warning: Not a valid file
+Norme: ./libft/objects/pc.o
+Warning: Not a valid file
+Norme: ./libft/objects/pc_fd.o
+Warning: Not a valid file
+Norme: ./libft/objects/pf_fd_out.o
+Warning: Not a valid file
+Norme: ./libft/objects/pl.o
+Warning: Not a valid file
+Norme: ./libft/objects/pn.o
+Warning: Not a valid file
+Norme: ./libft/objects/pn_fd.o
+Warning: Not a valid file
+Norme: ./libft/objects/pnl.o
+Warning: Not a valid file
+Norme: ./libft/objects/pnl_fd.o
+Warning: Not a valid file
+Norme: ./libft/objects/ps.o
+Warning: Not a valid file
+Norme: ./libft/objects/ps_fd.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_between.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_bin_to_i.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_cat.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_char.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_clr.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_cmp.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_cpy.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_del.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_dup.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_equals.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_format.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_get.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_has.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_haschar.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_ifnull.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_inner.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_iter.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_iteri.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_join.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_len.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_map.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_mapi.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_move.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_n_cat.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_n_cmp.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_n_cpy.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_n_dup.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_n_equals.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_n_haschar.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_n_inner.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_nchar.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_new.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_nto_char.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_nto_inner.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_nto_pass_char.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_replace.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_s_map_value.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_split.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_squeeze.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_sub.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_tail.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_to_i.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_trim.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_v_reduce.o
+Warning: Not a valid file
+Norme: ./libft/objects/s_v_to_lst.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_add_formatter_attr.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_add_size.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_color_put.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_decide.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_escape_codes.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_arg.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_arg_float.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_arg_pointer.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_char.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_formats.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_from_void.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_num.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_str.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_wchar.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_get_wstr.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_iter.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_n_format.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_n_sign.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_number.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_out.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_parse.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_principal.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_proto.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_put_if_mapped.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_rgb.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_save.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_string.o
+Warning: Not a valid file
+Norme: ./libft/objects/sf_structs_init.o
+Warning: Not a valid file
+Norme: ./libft/objects/short_to_s.o
+Warning: Not a valid file
+Norme: ./libft/objects/stall.o
+Warning: Not a valid file
+Norme: ./libft/objects/sv_join.o
+Warning: Not a valid file
+Norme: ./libft/objects/ws_to_s.o
+Warning: Not a valid file
+Norme: ./libft/objects/x_del.o
+Warning: Not a valid file
+Norme: ./libft/objects/zd_to_s_base.o
+Warning: Not a valid file
+Norme: ./libft/strft/tmp.norm
+Warning: Not a valid file
+Norme: ./libft/x.norm
+Warning: Not a valid file
+Norme: ./libft.a
+Warning: Not a valid file
+Norme: ./libftprintf.a
+Warning: Not a valid file
+Norme: ./Makefile
+Warning: Not a valid file
+Norme: ./tests/10_no_access.sh
+Warning: Not a valid file
+Norme: ./tests/11_invalid_flag.sh
+Warning: Not a valid file
+Norme: ./tests/11_no_file.sh
+Warning: Not a valid file
+Norme: ./tests/1_ls.sh
+Warning: Not a valid file
+Norme: ./tests/2_a.sh
+Warning: Not a valid file
+Norme: ./tests/3_l.sh
+Warning: Not a valid file
+Norme: ./tests/4_r.sh
+Warning: Not a valid file
+Norme: ./tests/5_t.sh
+Warning: Not a valid file
+Norme: ./tests/6_r_multi.sh
+Warning: Not a valid file
+Norme: ./tests/7_t_multi.sh
+Warning: Not a valid file
+Norme: ./tests/8_R.sh
+Warning: Not a valid file
+Norme: ./tests/9_multi_form.sh
+Warning: Not a valid file
+Norme: ./tests/a.diff
+Warning: Not a valid file
+Norme: ./tests/a.ft.diff
+Warning: Not a valid file
+Norme: ./tests/dir_link.sh
+Warning: Not a valid file
+Norme: ./tests/end_of_flags.sh
+Warning: Not a valid file
+Norme: ./tests/ft.diff
+Warning: Not a valid file
+Norme: ./tests/long_sym.sh
+Warning: Not a valid file
+Norme: ./tests/sticky.sh
+Warning: Not a valid file
+Norme: ./tests/ux.diff
+Warning: Not a valid file
+Norme: ./tests/x.norm
+Warning: Not a valid file
+Norme: ./env_getter.c
+Norme: ./libft/charft/c_is_alnum.c
+Norme: ./libft/charft/c_is_ascii.c
+Norme: ./libft/charft/c_is_alpha.c
+Norme: ./libft/charft/c_is_lower.c
+Norme: ./libft/charft/c_is_digit.c
+Norme: ./libft/charft/c_is_upper.c
+Norme: ./libft/charft/c_to_lower.c
+Norme: ./libft/charft/c_is_print.c
+Norme: ./libft/charft/c_to_s.c
+Norme: ./libft/charft/c_to_upper.c
+Norme: ./libft/ft_printf/pf_fd_out.c
+Norme: ./libft/ft_printf/ft_printf_fd.c
+Norme: ./ft_ls.h
+Norme: ./ft_ls.c
+Norme: ./libft/ft_printf/s_format.c
+Norme: ./libft/ft_printf/sf_add_size.c
+Norme: ./libft/ft_printf/sf_add_formatter_attr.c
+Norme: ./libft/ft_printf/sf_decide.c
+Norme: ./libft/ft_printf/sf_escape_codes.c
+Norme: ./libft/ft_printf/sf_get_arg_pointer.c
+Norme: ./libft/ft_printf/sf_get_arg_float.c
+Norme: ./libft/ft_printf/sf_get_arg.c
+Norme: ./libft/ft_printf/sf_get_char.c
+Norme: ./libft/ft_printf/sf_color_put.c
+Norme: ./libft/ft_printf/sf_get_from_void.c
+Norme: ./libft/ft_printf/sf_get_formats.c
+Norme: ./libft/ft_printf/sf_get_wchar.c
+Norme: ./libft/ft_printf/sf_get_str.c
+Norme: ./libft/ft_printf/sf_get_wstr.c
+Norme: ./libft/ft_printf/sf_n_sign.c
+Norme: ./libft/ft_printf/sf_iter.c
+Norme: ./libft/ft_printf/sf_n_format.c
+Norme: ./libft/ft_printf/sf_get_num.c
+Norme: ./libft/ft_printf/sf_number.c
+Norme: ./libft/ft_printf/sf_principal.c
+Norme: ./libft/ft_printf/sf_out.c
+Norme: ./libft/ft_printf/sf_proto.c
+Norme: ./libft/ft_printf/sf_put_if_mapped.c
+Norme: ./libft/ft_printf/sf_save.c
+Norme: ./libft/ft_printf/sf_structs_init.c
+Norme: ./libft/includes/cft.h
+Norme: ./libft/includes/ft_printf_out.h
+Norme: ./libft/includes/get_next_line.h
+Norme: ./libft/includes/initft.h
+Norme: ./libft/includes/ioft.h
+Norme: ./libft/ft_printf/sf_rgb.c
+Norme: ./libft/ft_printf/sf_string.c
+Norme: ./libft/includes/itosft.h
+Norme: ./libft/includes/libft_includes.h
+Norme: ./libft/includes/libft_macro.h
+Norme: ./libft/includes/libft.h
+Norme: ./libft/includes/libft_typedefs.h
+Norme: ./libft/includes/mapft.h
+Norme: ./libft/includes/s_format_defines.h
+Norme: ./libft/includes/s_format_out.h
+Norme: ./libft/ft_printf/sf_parse.c
+Norme: ./libft/includes/s_format_type_funcs.h
+Norme: ./libft/includes/sf_save.h
+Norme: ./libft/includes/s_format_typedefs.h
+Norme: ./libft/includes/trace.h
+Norme: ./libft/initialiseft/b_all_zero.c
+Norme: ./libft/includes/lft.h
+Norme: ./libft/initialiseft/buff_val.c
+Norme: ./libft/initialiseft/f_alloc.c
+Norme: ./libft/initialiseft/init_zero.c
+Norme: ./libft/initialiseft/init_val.c
+Norme: ./libft/includes/s_format.h
+Norme: ./libft/intft/i_in_iv.c
+Norme: ./libft/intft/i_tens.c
+Norme: ./libft/intft/i_numlen.c
+Norme: ./libft/ioft/get_next_line.c
+Norme: ./libft/ioft/p.c
+Norme: ./libft/ioft/p_nchar.c
+Norme: ./libft/ioft/pc.c
+Norme: ./libft/ioft/pc_fd.c
+Norme: ./libft/ioft/pn.c
+Norme: ./libft/ioft/pl.c
+Norme: ./libft/ioft/pnl.c
+Norme: ./libft/ioft/pnl_fd.c
+Norme: ./libft/includes/sft.h
+Norme: ./libft/ioft/pn_fd.c
+Norme: ./libft/ioft/ps_fd.c
+Norme: ./libft/ioft/pwc.c
+Norme: ./libft/ioft/ft_sssplit.c
+Norme: ./libft/ioft/ps.c
+Norme: ./libft/itosft/i_to_s.c
+Norme: ./libft/itosft/cval_to_s.c
+Norme: ./libft/itosft/f_to_s.c
+Norme: ./libft/itosft/f_to_i.c
+Norme: ./libft/itosft/my_limits.c
+Norme: ./libft/itosft/i_to_s_base.c
+Norme: ./libft/itosft/long_to_s.c
+Norme: ./libft/lstft/l_add.c
+Norme: ./libft/itosft/zd_to_s_base.c
+Norme: ./libft/itosft/short_to_s.c
+Norme: ./libft/lstft/l_count.c
+Norme: ./libft/lstft/l_chars.c
+Norme: ./libft/itosft/longlong_to_s.c
+Norme: ./libft/lstft/l_destroy_content.c
+Norme: ./libft/lstft/l_aggr.c
+Norme: ./libft/lstft/l_dup.c
+Norme: ./libft/lstft/l_destroy.c
+Norme: ./libft/lstft/l_first_by_index.c
+Norme: ./libft/lstft/l_filteri.c
+Norme: ./libft/lstft/l_filter.c
+Norme: ./libft/lstft/l_first_by_type.c
+Norme: ./libft/lstft/l_goto.c
+Norme: ./libft/lstft/l_grab_index.c
+Norme: ./libft/lstft/l_grab_ref.c
+Norme: ./libft/lstft/l_grab.c
+Norme: ./libft/lstft/l_grab_type.c
+Norme: ./libft/lstft/l_has_c.c
+Norme: ./libft/lstft/l_each.c
+Norme: ./libft/lstft/l_has.c
+Norme: ./libft/lstft/l_index_pos.c
+Norme: ./libft/lstft/l_last.c
+Norme: ./libft/lstft/l_insert.c
+Norme: ./libft/lstft/l_init.c
+Norme: ./libft/lstft/l_map.c
+Norme: ./libft/lstft/l_hop.c
+Norme: ./libft/lstft/l_previous.c
+Norme: ./libft/lstft/l_new.c
+Norme: ./libft/lstft/l_reduce.c
+Norme: ./libft/lstft/l_reduce_proto.c
+Norme: ./libft/lstft/l_push.c
+Norme: ./libft/lstft/l_refindex.c
+Norme: ./libft/lstft/l_reverse.c
+Norme: ./libft/lstft/l_reduce_str.c
+Norme: ./libft/lstft/l_slice.c
+Norme: ./libft/lstft/l_remove.c
+Norme: ./libft/lstft/l_snap_after.c
+Norme: ./libft/lstft/l_push_sort.c
+Norme: ./libft/lstft/l_to_sv.c
+Norme: ./libft/lstft/l_type_index.c
+Norme: ./libft/mapft/oo_map_del.c
+Norme: ./libft/mapft/oo_new_map.c
+Norme: ./libft/mapft/oo_map_getval.c
+Norme: ./libft/mapft/s_s_map_value.c
+Norme: ./libft/strft/s_cat.c
+Norme: ./libft/strft/s_between.c
+Norme: ./libft/strft/s_bin_to_i.c
+Norme: ./libft/strft/s_char.c
+Norme: ./libft/strft/s_cmp.c
+Norme: ./libft/strft/s_clr.c
+Norme: ./libft/strft/s_cpy.c
+Norme: ./libft/strft/s_dup.c
+Norme: ./libft/strft/s_del.c
+Norme: ./libft/strft/s_equals.c
+Norme: ./libft/strft/s_has.c
+Norme: ./libft/strft/s_ifnull.c
+Norme: ./libft/strft/s_inner.c
+Norme: ./libft/strft/s_haschar.c
+Norme: ./libft/strft/s_iteri.c
+Norme: ./libft/strft/s_iter.c
+Norme: ./libft/strft/s_len.c
+Norme: ./libft/lstft/l_split.c
+Norme: ./libft/strft/s_mapi.c
+Norme: ./libft/strft/s_join.c
+Norme: ./libft/strft/s_map.c
+Norme: ./libft/strft/s_move.c
+Norme: ./libft/strft/s_n_cat.c
+Norme: ./libft/strft/s_n_cmp.c
+Norme: ./libft/strft/s_n_cpy.c
+Norme: ./libft/strft/s_n_dup.c
+Norme: ./libft/strft/s_n_haschar.c
+Norme: ./libft/strft/s_n_equals.c
+Norme: ./libft/strft/s_nchar.c
+Norme: ./libft/strft/s_n_inner.c
+Norme: ./libft/strft/s_nto_char.c
+Norme: ./libft/strft/s_new.c
+Norme: ./libft/strft/s_nto_pass_char.c
+Norme: ./libft/strft/s_nto_inner.c
+Norme: ./libft/strft/s_split.c
+Norme: ./libft/strft/s_squeeze.c
+Norme: ./libft/strft/s_tail.c
+Norme: ./libft/strft/s_sub.c
+Norme: ./libft/strft/s_trim.c
+Norme: ./libft/strft/s_replace.c
+Norme: ./libft/strft/s_v_reduce.c
+Norme: ./libft/strft/s_v_to_lst.c
+Norme: ./libft/strft/sv_to_l.c
+Norme: ./libft/strft/s_to_i.c
+Norme: ./libft/xft/stall.c
+Norme: ./libft/xft/x_del.c
+Norme: ./libft/strft/sv_join.c
+Norme: ./ls_alpha_sort.c
+Norme: ./ls_flag_error.c
+Norme: ./libft/strft/s_get.c
+Norme: ./ls_get_cols.c
+Norme: ./libft/strft/ws_to_s.c
+Norme: ./ls_get_link_len.c
+Norme: ./ls_get_input.c
+Norme: ./ls_get_sorter.c
+Norme: ./ls_is_sub_dir.c
+Norme: ./ls_l_info_del.c
+Norme: ./ls_month.c
+Norme: ./ls_get_sub_dirs.c
+Norme: ./ls_iterate_read.c
+Norme: ./ls_alpha_sort_proto.c
+Norme: ./ls_permission_str.c
+Norme: ./ls_put_grid.c
+Norme: ./ls_put_info.c
+Norme: ./ls_new_info.c
+Norme: ./ls_put_longform.c
+Norme: ./ls_set_date.c
+Norme: ./ls_set_permissions.c
+Norme: ./ls_sort_dirs_initial.c
+Norme: ./ls_reader.c
+Norme: ./ls_time_sort.c
